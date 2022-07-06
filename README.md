@@ -1,2 +1,2 @@
-# randomquotes
-create random quotes
+# Random Quotes
+You can Create random quotes
